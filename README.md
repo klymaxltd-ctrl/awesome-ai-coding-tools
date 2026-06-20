@@ -22,6 +22,7 @@ Pricing: 🆓 Free · 🟢 Freemium · 💲 Paid. Scores are editorial (0-10), b
 - **[Tabnine](https://tabnine.com)** 💲 Paid — Joute's review of Tabnine. Score, EUR pricing, obsolescence risk, alternatives. — [review](https://joute.io/en/avis/tabnine)
 - **[Amazon Q Developer](https://aws.amazon.com)** 🟢 Freemium — Joute's review of Amazon Q Developer. Score, price, obsolescence risk, alternatives. — [review](https://joute.io/en/avis/amazon-q-developer)
 - **[Aider](https://aider.chat)** 🆓 Free — Joute's review of Aider. Score, EUR pricing, obsolescence risk, alternatives. — [review](https://joute.io/en/avis/aider)
+- **[ax](https://github.com/Necmttn/ax)** 🆓 Free — Local agent telemetry.
 - **[Cline](https://cline.bot)** 🆓 Free — Joute's review of Cline. Score, price, obsolescence risk, alternatives. — [review](https://joute.io/en/avis/cline)
 - **[Continue](https://continue.dev)** 🆓 Free — Joute review of Continue. Score, USD pricing, obsolescence risk, alternatives. — [review](https://joute.io/en/avis/continue)
 - **[Roo Code](https://roocode.com)** 🆓 Free — Joute's review of Roo Code. Score, EUR pricing, obsolescence risk, alternatives. — [review](https://joute.io/en/avis/roo-code)
