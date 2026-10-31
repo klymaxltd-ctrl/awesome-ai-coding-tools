@@ -66,6 +66,7 @@ Pricing: 🆓 Free · 🟢 Freemium · 💲 Paid. Scores are editorial (0-10), b
 - **[TestGPT](https://testgpt.com)** 🟢 Freemium — Review of TestGPT, the AI test generator for developers. Price, alternatives, who it's for. — [review](https://joute.io/en/avis/testgpt)
 - **[Keploy](https://keploy.io)** 🟢 Freemium — Review of Keploy. Automatic E2E test generation from real network traffic. Pricing, limits, alternatives. — [review](https://joute.io/en/avis/keploy)
 - **[Momentic](https://momentic.ai)** 🟢 Freemium — Review of Momentic, the AI-maintained low-code E2E testing platform. Pricing, alternatives, who it's for. — [review](https://joute.io/en/avis/momentic)
+- **[agent-qa](https://vostride.com)** Model costs vary — Tests web, Android and iOS apps via CLI/MCP, with persistent memidex memory, validated self-improvement and reviewable run evidence.
 - **[Pollyglot](https://pollyglot.ai)** 🟢 Freemium — Review of Pollyglot, the AI code translation tool between programming languages. Pricing, alternatives, who it's for. — [review](https://joute.io/en/avis/pollyglot)
 - **[AutoRegex](https://autoregex.xyz)** 🟢 Freemium — Review of AutoRegex. Generates regular expressions from a natural language description. Pricing, limits, alternatives. — [review](https://joute.io/en/avis/autoregex)
 - **[Regex.ai](https://regex.ai)** 🆓 Free — Review of Regex.ai, the regex generator from natural language descriptions. Pricing, alternatives, who it's for. — [review](https://joute.io/en/avis/regex-ai)
